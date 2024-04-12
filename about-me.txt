@@ -1,4 +1,4 @@
-my name is rahul.
+My name is rahul.
 
 commands learned till now:
 - git init
